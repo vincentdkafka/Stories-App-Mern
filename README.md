@@ -84,11 +84,7 @@ npm run dev
 
 ---
 
-## 🌐 Live Demo
 
-> [Optional: Add deployed link here using Netlify, Vercel, or Render]
-
----
 
 ## 📁 Folder Structure
 
