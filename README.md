@@ -122,5 +122,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙋‍♂️ Author
 
 **Harsh Kurware**  
-📫 [LinkedIn](https://www.linkedin.com/in/harshkurware)  
+📫 [LinkedIn](https://www.linkedin.com/in/harshkurware22)  
 🧑‍💻 Full-stack Developer | Designer
