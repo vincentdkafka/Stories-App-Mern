@@ -1,0 +1,12 @@
+
+@import "tailwindcss";
+
+@layer base{
+  body {
+    @apply bg-cyan-950;
+  }
+
+  button {
+    @apply cursor-pointer ;
+  }
+}
